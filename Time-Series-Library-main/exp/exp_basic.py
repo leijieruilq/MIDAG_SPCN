@@ -1,6 +1,6 @@
 import os
 import torch
-from models import  MIDAG_SPCN
+from models import MIDAG_SPCN
 
 class Exp_Basic(object):
     def __init__(self, args):
